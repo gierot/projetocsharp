@@ -1,0 +1,14 @@
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\bin\Debug\netcoreapp3.1\projetocsharp.exe
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\bin\Debug\netcoreapp3.1\projetocsharp.deps.json
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\bin\Debug\netcoreapp3.1\projetocsharp.runtimeconfig.json
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\bin\Debug\netcoreapp3.1\projetocsharp.runtimeconfig.dev.json
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\bin\Debug\netcoreapp3.1\projetocsharp.dll
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\bin\Debug\netcoreapp3.1\projetocsharp.pdb
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.csproj.AssemblyReference.cache
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.AssemblyInfoInputs.cache
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.AssemblyInfo.cs
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.csproj.CoreCompileInputs.cache
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.dll
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.pdb
+C:\Users\giero\source\repos\projetocsharp\projetocsharp\obj\Debug\netcoreapp3.1\projetocsharp.genruntimeconfig.cache
